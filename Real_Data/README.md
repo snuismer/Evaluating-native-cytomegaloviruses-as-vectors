@@ -1,6 +1,6 @@
 # Data key for raw data file
 
-## The data contained in each column is described below:
+## Data description by column:
 - X
 - Y
 - Z
