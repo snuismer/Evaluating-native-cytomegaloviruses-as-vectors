@@ -23,7 +23,7 @@
 - CMV3M44_Reads. The total number of reads aligning to the M44 segment of MnatCMV3.
 - CMV3M69_Reads. The total number of reads aligning to the M69 segment of MnatCMV3.
 - CMV3M128_Reads. The total number of reads aligning to the M128 segment of MnatCMV3.
-- CMV1_Binary. Infection status of the animal by MnatCMV1. "1" indicates the animal had more than 1x10^-7^ standardized reads aligning to all three segments of MnatCMV1. "0" indicates the animal had fewer than 1x10^-7^ standardized reads aligning to at least one of the three segments of MnatCMV1
+- CMV1_Binary. Infection status of the animal by MnatCMV1. "1" indicates the animal had more than 1x10^-7^ standardized reads aligning to all three segments of MnatCMV1. "0" indicates the animal had fewer than 1x10^{-7}^ standardized reads aligning to at least one of the three segments of MnatCMV1
 
 - Mnat
 
