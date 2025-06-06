@@ -11,3 +11,17 @@
 - Tail_mm. The length of the tail in mm.
 - Body_W_Tail_mm. The length of the body from snout tip to tail tip in mm.
 - Body_WO_Tail_mm. The length of the body from snout tip to tail base in mm.
+- Pred_ELW. Eye lens weight predicted from body length as described in the manuscript.
+- Pred_Age. Animal age in days predicted using Eye lens weight as described in the manuscript.
+- TotalReads. The total number of sequencing reads.
+- CMV1M44_Reads. The total number of reads aligning to the M44 segment of MnatCMV1.
+- CMV1M69_Reads. The total number of reads aligning to the M69 segment of MnatCMV1.
+- CMV1M128_Reads. The total number of reads aligning to the M128 segment of MnatCMV1.
+- CMV2M44_Reads. The total number of reads aligning to the M44 segment of MnatCMV2.
+- CMV2M69_Reads. The total number of reads aligning to the M69 segment of MnatCMV2.
+- CMV2M128_Reads. The total number of reads aligning to the M128 segment of MnatCMV2.
+- CMV3M44_Reads. The total number of reads aligning to the M44 segment of MnatCMV3.
+- CMV3M69_Reads. The total number of reads aligning to the M69 segment of MnatCMV3.
+- CMV3M128_Reads. The total number of reads aligning to the M128 segment of MnatCMV3.
+
+
